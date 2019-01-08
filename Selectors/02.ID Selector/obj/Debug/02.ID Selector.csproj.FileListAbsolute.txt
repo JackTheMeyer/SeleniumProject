@@ -1,0 +1,1 @@
+C:\Users\vache_000\Desktop\SeleniumWebDriver\SeleniumWebDriverTests\02.ID Selector\bin\Debug\02.ID Selector.exe.config

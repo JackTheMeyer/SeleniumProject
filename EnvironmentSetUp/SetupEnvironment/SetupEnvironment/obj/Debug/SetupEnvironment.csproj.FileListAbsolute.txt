@@ -1,0 +1,12 @@
+C:\Users\Jack\Desktop\Selenium\EnvironmentSetUp\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.exe.config
+C:\Users\Jack\Desktop\Selenium\EnvironmentSetUp\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.exe
+C:\Users\Jack\Desktop\Selenium\EnvironmentSetUp\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.pdb
+C:\Users\Jack\Desktop\Selenium\EnvironmentSetUp\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.dll
+C:\Users\Jack\Desktop\Selenium\EnvironmentSetUp\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.Support.dll
+C:\Users\Jack\Desktop\Selenium\EnvironmentSetUp\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.xml
+C:\Users\Jack\Desktop\Selenium\EnvironmentSetUp\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.Support.xml
+C:\Users\Jack\Desktop\Selenium\EnvironmentSetUp\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.csprojAssemblyReference.cache
+C:\Users\Jack\Desktop\Selenium\EnvironmentSetUp\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\Selenium\EnvironmentSetUp\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.csproj.CopyComplete
+C:\Users\Jack\Desktop\Selenium\EnvironmentSetUp\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.exe
+C:\Users\Jack\Desktop\Selenium\EnvironmentSetUp\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.pdb

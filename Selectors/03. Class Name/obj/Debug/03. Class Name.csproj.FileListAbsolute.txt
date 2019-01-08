@@ -1,0 +1,11 @@
+C:\Users\vache_000\Desktop\SeleniumWebDriver\SeleniumWebDriverTests\03. Class Name\bin\Debug\_03.Class_Name.exe.config
+C:\Users\vache_000\Desktop\SeleniumWebDriver\SeleniumWebDriverTests\03. Class Name\bin\Debug\chromedriver.exe
+C:\Users\vache_000\Desktop\SeleniumWebDriver\SeleniumWebDriverTests\03. Class Name\bin\Debug\_03.Class_Name.exe
+C:\Users\vache_000\Desktop\SeleniumWebDriver\SeleniumWebDriverTests\03. Class Name\bin\Debug\_03.Class_Name.pdb
+C:\Users\vache_000\Desktop\SeleniumWebDriver\SeleniumWebDriverTests\03. Class Name\bin\Debug\WebDriver.dll
+C:\Users\vache_000\Desktop\SeleniumWebDriver\SeleniumWebDriverTests\03. Class Name\bin\Debug\WebDriver.Support.dll
+C:\Users\vache_000\Desktop\SeleniumWebDriver\SeleniumWebDriverTests\03. Class Name\bin\Debug\WebDriver.xml
+C:\Users\vache_000\Desktop\SeleniumWebDriver\SeleniumWebDriverTests\03. Class Name\bin\Debug\WebDriver.Support.xml
+C:\Users\vache_000\Desktop\SeleniumWebDriver\SeleniumWebDriverTests\03. Class Name\obj\Debug\03. Class Name.csprojResolveAssemblyReference.cache
+C:\Users\vache_000\Desktop\SeleniumWebDriver\SeleniumWebDriverTests\03. Class Name\obj\Debug\_03.Class_Name.exe
+C:\Users\vache_000\Desktop\SeleniumWebDriver\SeleniumWebDriverTests\03. Class Name\obj\Debug\_03.Class_Name.pdb
